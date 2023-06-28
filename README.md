@@ -7,4 +7,4 @@ Update 23.06.2023 : Compilat GCC-ul
 
 Update 26.06.2023 : Am ajuns la partea de constructie in sine, instalez pachechetele, cca jumatatea cap. 8 din carte
 
-Update 27.06.2023 :
+Update 28.06.2023 : Am terminat capitolul 8. Ramane doar sa fac configurarile de sistem si sa fac distributia bootabila
